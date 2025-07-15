@@ -1,0 +1,41 @@
+{
+  "quotes": [
+    "Push yourself, because no one else is going to do it for you.",
+    "Success doesn\u2019t come from what you do occasionally, it comes from what you do consistently.",
+    "Stay focused and never give up. The beginning is always the hardest.",
+    "Your only limit is your mind.",
+    "Discipline is choosing between what you want now and what you want most."
+  ],
+  "tracks": [
+    {
+      "title": "Lo-fi Chill",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3"
+    },
+    {
+      "title": "Instrumental Focus",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3"
+    },
+    {
+      "title": "Motivation Power",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3"
+    },
+    {
+      "title": "Night Coding",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3"
+    },
+    {
+      "title": "Calm Brainstorm",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3"
+    }
+  ],
+  "theme": {
+    "default_mode": "dark",
+    "color_palette": {
+      "primary": "#4A90E2",
+      "secondary": "#1E1E2F",
+      "accent": "#F5A623",
+      "background": "#121212",
+      "text": "#E0E0E0"
+    }
+  }
+}
